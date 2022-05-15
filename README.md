@@ -1,6 +1,6 @@
 
 ## Universiteti i Prishtinës - Fakulteti i Inxhinierisë Elektrike dhe Kompjuterike
-# Detyra e tretë ne lenden: Rrjeta Kompjuterike
+# Detyra e tretë ne lenden: Siguria e te dhenave
 <pre>Punimi i s-boxes_DEScipher ne gjuhen programuese python.</pre> 
 
 <pre>Projekti eshte punuar nga:
